@@ -1,0 +1,23 @@
+Bonfire: Repeat a string repeat a string 
+Repeat a given string (first argument) n times (second argument). Return an empty string if n is a negative number.
+
+Remember to use Read-Search-Ask if you get stuck. Write your own code.
+
+Here are some helpful links:
+
+Global String Object
+
+
+[TESTS]
+
+repeat("*", 3) should return "***".
+
+repeat("abc", 3) should return "abcabcabc".
+
+repeat("abc", 4) should return "abcabcabcabc".
+
+repeat("abc", 1) should return "abc".
+
+repeat("*", 8) should return "********".
+
+repeat("abc", -2) should return "".
